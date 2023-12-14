@@ -11,8 +11,7 @@ The Unzipper Tool is a lightweight PHP-based utility for easily extracting and c
 
 1. Upload the `unzipper.php` script to your web server.
 2. Access the tool via a web browser.
-3. Authenticate with the passphrase.
-4. Use the intuitive interface to perform file operations.
+http://your_server_ip/unzipper.php
 
 **Note: For security reasons, it's recommended to delete the tool from the web server path after usage.**
 
