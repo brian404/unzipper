@@ -10,11 +10,16 @@ The Unzipper Tool is a lightweight PHP-based utility for easily extracting and c
 ## Usage
 
 1. Upload the `unzipper.php` script to your web server.
-2. Access the tool via a web browser,http://your_server_ip/unzipper.php
+2. Access the tool via a web browser.
+3. Authenticate with the passphrase.
 4. Use the intuitive interface to perform file operations.
 
-**Note:** For security reasons, it's recommended to delete the tool from the web server path after usage.
+**Note: For security reasons, it's recommended to delete the tool from the web server path after usage.**
 
 ## Requirements
 
-- PHP with support for ZipArchive and RarArchive (if using RAR files)
+- PHP with support for ZipArchive and RarArchive (if using RAR files).
+
+## Version
+
+Current Version: 1.0
